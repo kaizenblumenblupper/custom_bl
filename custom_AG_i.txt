@@ -219,7 +219,6 @@
 ||pdfexpert.com^$important
 ||sentry.wmstudio.su^$important
 ||binaryboot.com^$important
-||cdninstagram.com^$important
 ||reach-pa.googleapis.com^$important
 ||clienttracing-pa.googleapis.com^$important
 ||cloudidentity.googleapis.com^$important
