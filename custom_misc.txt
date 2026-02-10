@@ -1,5 +1,4 @@
 friend.gc.apple.com
-##	client-api.itunes.apple.com
 gateway.icloud.com
 configuration.apple.com
 weather-analytics-events.apple.com
@@ -113,7 +112,6 @@ pacer.cc
 extra-awesome-confidence.net
 appcenter.ms
 appsflyersdk.com
-jsdelivr.net
 aliyuncs.com
 aatkit.com
 batch.com
