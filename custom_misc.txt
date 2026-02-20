@@ -1,3 +1,11 @@
+fpapi.io
+fpjs.io
+fptls.com
+amplitude.com
+pendo.io
+browser-intake-datadoghq.com
+moneydesktop.com
+
 friend.gc.apple.com
 gateway.icloud.com
 configuration.apple.com
