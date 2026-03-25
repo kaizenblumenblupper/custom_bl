@@ -92,7 +92,6 @@ buymeapie.com
 adadapted.com
 appbaqend.com
 criteo.com
-imgsmail.ru
 app-measurement.com
 pki.goog
 flurry.com
@@ -184,7 +183,6 @@ buymeapie.com
 adadapted.com
 appbaqend.com
 criteo.com
-imgsmail.ru
 app-measurement.com
 pki.goog
 flurry.com
