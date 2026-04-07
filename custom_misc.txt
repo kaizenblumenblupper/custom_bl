@@ -211,7 +211,7 @@ pacer.cc
 extra-awesome-confidence.net
 appcenter.ms
 appsflyersdk.com
-jsdelivr.net
+#jsdelivr.net
 aliyuncs.com
 aatkit.com
 batch.com
@@ -9585,7 +9585,6 @@ qfjherc.com
 ca.playonlinecasino.today
 playonlinecasino.today
 cds.j3z9t3p6.hwcdn.net
-stackpath.bootstrapcdn.com
 dc.sharpstar.pro
 1105404574.rsc.cdn77.org
 www.sportsinteraction.com
@@ -9703,7 +9702,6 @@ www.tapresearch.com
 axx-us-east.amazon-adsystem.com
 kinesis.us-east1.amazonawe.com
 img.3lift.com
-maxcdn.bootstrapcdn.com
 a94828c6a08d914296a1d178d1de5102.ulink.adjust.com
 658473abd74bd979afcfe472c595ce93.ulink.adjust.com
 sxj8.adj.st
